@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.MuiAppBar-root {
+  background-color: #3f51b5;
+}
+
+.MuiDrawer-paper {
+  background-color: #f4f6f8;
+}
